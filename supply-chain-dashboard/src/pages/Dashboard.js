@@ -9,7 +9,7 @@ import {
   ListItemText,
   Box,
   CircularProgress,
-} from '@mui/material';
+} from '@mui/material'; 
 import { Line } from 'react-chartjs-2';
 import {
   Chart as ChartJS,
